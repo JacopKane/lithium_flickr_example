@@ -1,0 +1,6 @@
+[submodule "libraries/li3_flickr"]
+	path = libraries/li3_flickr
+	url = git@github.com:JacopKane/li3_flickr.git
+[submodule "libraries/lithium"]
+	path = libraries/lithium
+	url = git://github.com/UnionOfRAD/lithium.git
